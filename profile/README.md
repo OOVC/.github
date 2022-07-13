@@ -1,3 +1,3 @@
-<h1 align="center">OOVC - Organisation Of Virtual Countries</h1>
+<h1 align="center">ERTH2 - a universe with a focus on virtual countries</h1>
 
-[VK](https://vk.com/vgovernments)
+[VK](https://vk.com/mapofvc)
